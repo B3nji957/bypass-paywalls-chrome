@@ -28,12 +28,12 @@
 [Adweek](https://www.adweek.com)\
 [Algemeen Dagblad](https://www.ad.nl)\
 [American Banker](https://www.americanbanker.com)\
-[BN De Stem](https://www.bndestem.nl)\
 [Baltimore Sun](https://www.baltimoresun.com)\
 [Barron's](https://www.barrons.com)\
 [Bloomberg Quint](https://www.bloombergquint.com)\
 [Bloomberg](https://www.bloomberg.com)\
-[Brabands Dagblad (BD)](https://www.bd.nl)\
+[BN De Stem](https://www.bndestem.nl)\
+[Brabants Dagblad](https://www.bd.nl)\
 [Brisbane Times](https://www.brisbanetimes.com.au)\
 [Business Insider](https://www.businessinsider.com)\
 [Caixin](https://www.caixinglobal.com)\
